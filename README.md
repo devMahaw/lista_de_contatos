@@ -21,5 +21,5 @@ Nesse projeto há uma lista de contatos com várias funcionalidades. Contém 3 b
 - EditorConfig
 - Typescript
 - Redux
-- React Router
+- Bibliotecas React
 - Vite
