@@ -1,6 +1,6 @@
-# Lista de Contatos
+# Lista de contatos
 
-Projeto de uma Lista de Contatos.
+Projeto de uma Lista de contatos.
 
 ## Tabela de Conteúdo
 
